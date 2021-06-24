@@ -1,4 +1,4 @@
-### Hi, My name is Aniel Someillan 
+### Hi, my name is Aniel Someillan 
 
 ⚡ Junior Frontend Developer
 
