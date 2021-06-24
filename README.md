@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, My name is Aniel Someillan 
 
-<!--
-**anisomegala/anisomegala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Junior Frontend Developer
 
-Here are some ideas to get you started:
+#### 💻 Technologies that so far I've used:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![React.js](https://img.shields.io/badge/-React.js-007494?style=flat&logo=react)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-0C4B33?style=flat&logo=Vue.js) 
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=Express)
+![Python](https://img.shields.io/badge/-Python-356c9a?style=flat&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-c16792?style=flat&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-darkblue?style=flat&logo=wordpress)
+
+
+
+#### 🌐 Projects:
+- [meskla_production](https://mesklaproduction.com) (wordpress(php))
+- [whatever_works_production](https://whateverworks.pl) (wordpress)
+- [bones_studios](https://bones.studio) (wordpress-php)
+
+
