@@ -4,9 +4,10 @@
 
 #### 💻 Technologies that so far I've used:
 
-
-![React.js](https://img.shields.io/badge/-React.js-007494?style=flat&logo=react)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+![React.js](https://img.shields.io/badge/-React.js-007494?style=flat&logo=react)
+![FIREBASE](https://img.shields.io/badge/-firebase-007494?style=flat&logo=firebase)
+![REDUX](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0C4B33?style=flat&logo=Vue.js) 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=Express)
@@ -19,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![BULMA](https://img.shields.io/badge/-bulma-white?style=flat&logo=bulma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-darkblue?style=flat&logo=wordpress)
 
