@@ -17,6 +17,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-c16792?style=flat&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![BULMA](https://img.shields.io/badge/-bulma-white?style=flat&logo=bulma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
