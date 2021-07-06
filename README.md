@@ -27,8 +27,8 @@
 
 
 #### 🌐 Projects:
-- [meskla_production](https://mesklaproduction.com) (wordpress(php))
-- [whatever_works_production](https://whateverworks.pl) (wordpress)
-- [bones_studios](https://bones.studio) (wordpress-php)
+- [meskla_production](https://mesklaproduction.com) 
+- [whatever_works_production](https://whateverworks.pl) 
+- [bones_studios](https://bones.studio) 
 
 
