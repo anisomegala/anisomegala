@@ -26,9 +26,15 @@
 
 
 
-#### 🌐 Projects:
+#### 🌐 Profesional Projects:
 - [meskla_production](https://mesklaproduction.com) 
 - [whatever_works_production](https://whateverworks.pl) 
 - [bones_studios](https://bones.studio) 
+
+
+### Other Projects:
+
+- https://books-three.vercel.app
+
 
 
