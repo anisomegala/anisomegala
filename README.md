@@ -28,9 +28,9 @@
 
 #### 🌐 Profesional Projects:
 - [OWO AKOKO](https://owo-akoko-shop.herokuapp.com/) Online Store with React, Redux, Stripe (still in procces)
-- [meskla_production](https://mesklaproduction.com) 
-- [whatever_works_production](https://whateverworks.pl) 
-- [bones_studios](https://bones.studio) 
+- [meskla_production](https://mesklaproduction.com) Wordpress/Elementor
+- [whatever_works_production](https://whateverworks.pl) Wordpress/Colibri
+- [bones_studios](https://bones.studio) Wordpress/PHP
 
 
 ### Other Projects:
