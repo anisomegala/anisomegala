@@ -35,7 +35,7 @@
 
 ### Other Projects:
 
-- https://books-three.vercel.app
+- https://books-three.vercel.app Vanilla Java Script and Bootstrap
 
 
 
